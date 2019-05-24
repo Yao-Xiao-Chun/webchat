@@ -1,0 +1,10 @@
+appname : webchat
+port: :8080
+dbhost:
+dbname: root
+dbpwd:
+debug: false
+dbtype:mongo
+
+
+

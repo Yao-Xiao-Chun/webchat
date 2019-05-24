@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BhMowD2DIKSd9qq8Pzh7Y3mh2/w=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "5545eab6dad3bbbd6c5ae9186383c2a9d23c0dae",
+			"revisionTime": "2019-03-01T06:25:29Z"
+		},
+		{
+			"checksumSHA1": "dig++1XEH6yBoquzRvmvN89Xo4Q=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "8ee9d959a0bcc132fae25ce61881c7effbe5c2f5",
+			"revisionTime": "2019-05-13T02:17:31Z"
+		},
+		{
+			"checksumSHA1": "+yGjgHJvmzUqOpN4IDPcl36uunE=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "8ee9d959a0bcc132fae25ce61881c7effbe5c2f5",
+			"revisionTime": "2019-05-13T02:17:31Z"
+		},
+		{
+			"checksumSHA1": "GAHho8qMLbDfGoD4w7SX7ZRT56U=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "8ee9d959a0bcc132fae25ce61881c7effbe5c2f5",
+			"revisionTime": "2019-05-13T02:17:31Z"
+		},
+		{
+			"checksumSHA1": "9iCKtf503fzNRscLk36L8KByHwc=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "8ee9d959a0bcc132fae25ce61881c7effbe5c2f5",
+			"revisionTime": "2019-05-13T02:17:31Z"
+		},
+		{
+			"checksumSHA1": "Wp97rIwFg54dNwuCeR9Vslaehtw=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "e91709a02e0e8ff8b86b7aa913fdc9ae9498e825",
+			"revisionTime": "2019-04-09T05:09:43Z"
+		},
+		{
+			"checksumSHA1": "UkzvLRfNSIdkh4jBNK54ZxS3y9w=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "c1975dc15c1d481e8da23f6ed313bb071136b98f",
+			"revisionTime": "2019-04-24T07:51:23Z"
+		},
+		{
+			"checksumSHA1": "E/VbFn8yiVVq0D3xYkBi7qghWRo=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "08f7b401aef15f3d544472dd46bf6788cdfe55bf",
+			"revisionTime": "2019-05-07T20:14:01Z"
+		},
+		{
+			"checksumSHA1": "q190bL03wQok3wVwYmMub2XhOiU=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "oNqPrS2edE8peI3ah2INe379k8E=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "webchat"
+}

@@ -1,0 +1,4 @@
+
+// 配置文件使用 yml
+
+go get gopkg.in/yaml.v2
